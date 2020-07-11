@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "112290744369",
+    "firebase_url": "https://puducherry-c3232.firebaseio.com",
+    "project_id": "puducherry-c3232",
+    "storage_bucket": "puducherry-c3232.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:112290744369:android:bc9ed7c5227bd5d4306d10",
+        "android_client_info": {
+          "package_name": "com.covid19.puducherry"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "112290744369-5oupj2rks75i6qg3ejvgp6m27tanrsdk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmwRn0xccSbWk-9OM6VY2yA6ceYuclZwo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "112290744369-5oupj2rks75i6qg3ejvgp6m27tanrsdk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
